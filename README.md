@@ -3,8 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.29%2B-FF4B4B.svg)](https://streamlit.io)
 [![Google Gemini](https://img.shields.io/badge/AI-Google%20Gemini-orange)](https://deepmind.google/technologies/gemini/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/yourusername/txtify/graphs/commit-activity)
 
 An advanced web content extraction tool that uses AI to clean and format web content while preserving meaningful information.
 
@@ -32,7 +30,7 @@ pip install -r requirements.txt
 # Set up environment variables
 cp .env.example .env
 # Add your GEMINI_API_KEY to .env file
-
+```
 # 📦 Requirements
 
 - Python 3.8+
