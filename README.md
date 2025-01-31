@@ -25,6 +25,9 @@ An advanced web content extraction tool that uses AI to clean and format web con
 - Simple content cleaning  
 
 ---
+# Output (V2)
+
+![Screenshot 2025-01-31 192154](https://github.com/user-attachments/assets/314755f5-b879-4c63-843e-e09d5a86687c)
 
 ## 🚀 Features
 
